@@ -111,7 +111,7 @@ Using this dashboard, we can analyze:
 
 # 🖼️ Dashboard Preview
 
-![Music Store Sales Dashboard](Dashboard%20Screenshot/dashboard.png)
+![Music-Store-Sales-Analytics-PowerBI](Dashboard%20Screenshot/dashboard.png)
 
 
 ---

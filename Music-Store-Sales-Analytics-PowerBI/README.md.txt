@@ -111,7 +111,7 @@ Using this dashboard, we can analyze:
 
 # 🖼️ Dashboard Preview
 
-![Music Store Sales Dashboard](Dashboard%20Screenshots/Music_Store_sales_dashboard.png)
+![Music Store Sales Dashboard](Dashboard%20Screenshot/dashboard.png)
 
 
 ---
